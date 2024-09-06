@@ -1,1 +1,1 @@
-# jamann-github.io
+# jamann.github.io
